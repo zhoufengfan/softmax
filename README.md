@@ -1,0 +1,2 @@
+# softmax
+Calculation of softmax
